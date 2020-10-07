@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/hand_wave.gif" width="30px">
 <!--
 **nilutpolkashyap/nilutpolkashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
