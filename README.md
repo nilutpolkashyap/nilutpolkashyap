@@ -3,6 +3,9 @@
 **nilutpolkashyap/nilutpolkashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## **Motto** : I Like to BREAK and MAKE Things.......
+
+#### **Portfolio Website** https://nilutpolkashyap.github.io/
 
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
@@ -12,7 +15,7 @@
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
-#### **Portfolio Website** https://nilutpolkashyap.github.io/
+
 
  ![](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
 
