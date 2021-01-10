@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
 
-![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif) ![](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
+![](https://media.giphy.com/media/Q1LPV0vs7oKqc/giphy.gif) ![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif) ![](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
 
 ### Programming Languages :keyboard: :man_technologist: :computer_mouse: 
 - Python 3
@@ -31,11 +31,11 @@
 - Jupyter Notebook
 - Git/Github
 
-### Hardware Tools :desktop_computer: :hammer_and_wrench:
+<!-- ### Hardware Tools :desktop_computer: :hammer_and_wrench:
 - Arduino 
 - Raspberry Pi
 - Texas Instruments
 - Intel NCS 2
 - PSOC 6
-- ESP8266/ESP32
+- ESP8266/ESP32 -->
 
