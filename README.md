@@ -7,12 +7,12 @@
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
 - 👯 I’m looking to collaborate on **Computer Vision Projects**
-
 - 💬 Ask me about **Robotics, Computer Vision, Python and Machine Learning**
 - 📫 You can reach me out at 
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
+#### **Portfolio Website : ** https://nilutpolkashyap.github.io/
 
  ![](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
 
@@ -30,6 +30,12 @@
 - Intel OneAPI Toolkit
 - Jupyter Notebook
 - Git/Github
+
+### Blogs
+- https://www.hackster.io/nilutpolkashyap
+- https://devpost.com/nilutpol_kashyap
+- https://www.electromaker.io/profile/nilutpolk
+- https://www.element14.com/community/people/nilutpol_kashyap
 
  ![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif)  ![](https://media.giphy.com/media/Q1LPV0vs7oKqc/giphy.gif) 
 
