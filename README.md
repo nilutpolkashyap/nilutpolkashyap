@@ -7,26 +7,23 @@
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
 - 👯 I’m looking to collaborate on **Computer Vision Projects**
-<!-- - 🤔 I’m looking for help with ... -->
+
 - 💬 Ask me about **Robotics, Computer Vision, Python and Machine Learning**
 - 📫 You can reach me out at 
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
 
-<!-- ![](https://img.shields.io/static/v1?label=OS&message=Linux&color=brightgreen)
-![](https://img.shields.io/static/v1?label=OS&message=Linux&color=brightgreen)-->
+![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif) ![](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
 
-###Programming Languages :keyboard: :man_technologist:
+### Programming Languages :keyboard: :man_technologist: :computer_mouse: 
 - Python 3
 - C++14
 - C 
 - DPC++
 - CUDA
-- Embedded C
-- Micropython
 
-###Software Tools :computer: 
+### Software Tools :computer: :printer: :pen:
 - Visual Studio 2019
 - Nvidia CUDA Toolkit
 - Intel OpenVINO Toolkit
@@ -34,7 +31,7 @@
 - Jupyter Notebook
 - Git/Github
 
-###Hardware Tools :desktop_computer:
+### Hardware Tools :desktop_computer: :hammer_and_wrench:
 - Arduino 
 - Raspberry Pi
 - Texas Instruments
