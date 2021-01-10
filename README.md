@@ -23,8 +23,6 @@
 - DPC++
 - CUDA
 
-![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif)
-
 ### Software Tools :computer: :printer: :pen:
 - Visual Studio 2019
 - Nvidia CUDA Toolkit
@@ -33,7 +31,7 @@
 - Jupyter Notebook
 - Git/Github
 
-![](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
+![](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif) ![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif)
 
 <!-- ### Hardware Tools :desktop_computer: :hammer_and_wrench:
 - Arduino 
