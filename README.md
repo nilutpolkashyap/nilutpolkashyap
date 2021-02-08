@@ -35,10 +35,7 @@
 - Git/Github
 
 ### Blogs
-- https://www.hackster.io/nilutpolkashyap
-- https://devpost.com/nilutpol_kashyap
-- https://www.electromaker.io/profile/nilutpolk
-- https://www.element14.com/community/people/nilutpol_kashyap
+
 
  ![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif)  ![](https://media.giphy.com/media/Q1LPV0vs7oKqc/giphy.gif) 
 
