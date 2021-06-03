@@ -1,52 +1,67 @@
-# Hi, I am Nilutpol Kashyap! :wave: :technologist:
-<!--
-**nilutpolkashyap/nilutpolkashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-## **Motto** : I Like to BREAK and MAKE Things.......
-
-## There were 1000+ sperms but I was the fastest one.
-
-
-#### **Portfolio Website** https://nilutpolkashyap.github.io/
-
-<!-- - 🔭 I’m currently working on -->
+![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/main.JPG?raw=true)
+____________________________________________________________________________________________
+- 🔭 I’m currently working on "something cooking!!🤐"
+- 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation**
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
-- 👯 I’m looking to collaborate on **Computer Vision Projects**
-- 💬 Ask me about **Robotics, Computer Vision, Python and Machine Learning**
-- 📫 You can reach me out at 
+- 👯 I’m looking to collaborate on **ROS and Computer Vision Projects**
+- 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
+- 📫 You can reach me out at <a href="nilutpolkashyap@gmail.com">nilutpolkashyap@gmail.com</a> :email:
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
+______________________________________________________________________________________________________
+![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true)
 
 
- ![](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
+### Programming Languages 🧑‍💻 ⌨️ 🖱️
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> &ensp;
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> &ensp;
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> &ensp;
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> &ensp;
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> &ensp;
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> &ensp;
 
-### Programming Languages :keyboard: :man_technologist: :computer_mouse: 
-- Python 3
-- C++14
-- C 
-- DPC++
-- CUDA
+### Frameworks/Softwares ⚔️🔗
+<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/> &ensp;
+<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> &ensp;
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> &ensp;
+<img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/> &ensp;
 
-### Software Tools :computer: :printer: :pen:
-- Visual Studio 2019
-- Nvidia CUDA Toolkit
-- Intel OpenVINO Toolkit
-- Intel OneAPI Toolkit
-- Jupyter Notebook
-- Git/Github
+### Machine Learning/ Deep Learning 🧠 👁️ 🤔
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> &ensp;
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> &ensp;
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> &ensp;
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> &ensp;
+<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> &ensp;
 
-### Blogs
+### IDEs/ Editors
+<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> &ensp;
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> &ensp;
+
+### Version Control ⚙️ 🛒
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> &ensp;
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> &ensp;
+<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> &ensp;
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> &ensp;
+
+### Operating System
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> &ensp;
+<img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> &ensp;
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> &ensp;
+
+### Others
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" /> &ensp;
+<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>  &ensp;
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  &ensp;
+
+______________________________________________________________________________________________________
+![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage2.JPG?raw=true)
+
+______________________________________________________________________________________________________
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&count_private=true)
+
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&langs_count=8)]()
 
 
- ![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif)  ![](https://media.giphy.com/media/Q1LPV0vs7oKqc/giphy.gif) 
-
-<!-- ### Hardware Tools :desktop_computer: :hammer_and_wrench:
-- Arduino 
-- Raspberry Pi
-- Texas Instruments
-- Intel NCS 2
-- PSOC 6
-- ESP8266/ESP32 -->
 
