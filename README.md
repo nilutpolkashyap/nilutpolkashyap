@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&langs_count=6)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&langs_count=6)]()
 
-
+<p>&emsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilutpolkashyap&show_icons=true&locale=en&layout=compact&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="nilutpolkashyap" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img  alt="tech" width="250" height="150" src="tech.gif"></p>
 
