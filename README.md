@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" /> </a> &ensp;
 <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> &ensp;
 
-
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 ### Software Tools :computer: :printer: :pen:
 - Visual Studio 2019
