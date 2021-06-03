@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
 - 👯 I’m looking to collaborate on **ROS and Computer Vision Projects**
 - 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
-- 📫 You can reach me out at ** <a href="mailto:webmaster@example.com">Nilutpol Kashyap</a> ** :email:
+- 📫 You can reach me out at **<a href="mailto:webmaster@example.com">Nilutpol Kashyap</a>** :email:
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
