@@ -1,33 +1,25 @@
-# Hi, I am Nilutpol Kashyap! :wave: :technologist:
-<!--
-**nilutpolkashyap/nilutpolkashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/main.JPG?raw=true)
 
-## **Motto** : I Like to BREAK and MAKE Things.......
-
-## There were 1000+ sperms but I was the fastest one.
-
-
-#### **Portfolio Website** https://nilutpolkashyap.github.io/
-
-<!-- - 🔭 I’m currently working on -->
+- 🔭 I’m currently working on "a simulation project!!"
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
-- 👯 I’m looking to collaborate on **Computer Vision Projects**
-- 💬 Ask me about **Robotics, Computer Vision, Python and Machine Learning**
-- 📫 You can reach me out at 
+- 👯 I’m looking to collaborate on **ROS and Computer Vision Projects**
+- 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
+- 📫 You can reach me out at [](mailto:nilutpolkashyap@gmail.com?subject=[I would like to know more about your projects]%20Source%20Han%20Sans)
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
 
+ 
 
- ![](https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif)
 
 ### Programming Languages :keyboard: :man_technologist: :computer_mouse: 
 - Python 3
 - C++14
-- C 
-- DPC++
-- CUDA
+- C
+- CUDA C/C++
+
+
+
 
 ### Software Tools :computer: :printer: :pen:
 - Visual Studio 2019
@@ -36,17 +28,8 @@
 - Intel OneAPI Toolkit
 - Jupyter Notebook
 - Git/Github
+- 
 
-### Blogs
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&count_private=true)
 
-
- ![](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif)  ![](https://media.giphy.com/media/Q1LPV0vs7oKqc/giphy.gif) 
-
-<!-- ### Hardware Tools :desktop_computer: :hammer_and_wrench:
-- Arduino 
-- Raspberry Pi
-- Texas Instruments
-- Intel NCS 2
-- PSOC 6
-- ESP8266/ESP32 -->
 
