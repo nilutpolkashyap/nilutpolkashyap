@@ -55,7 +55,7 @@ ________________________________________________________________________________
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  &ensp;
 
 ______________________________________________________________________________________________________
-![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage2.JPG?raw=true)
+![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/collage2.jpg)
 
 ______________________________________________________________________________________________________
 
