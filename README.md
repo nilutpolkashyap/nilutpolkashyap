@@ -9,6 +9,15 @@ ________________________________________________________________________________
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
+[![Repos Badge](https://badges.pufler.dev/repos/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Years Badge](https://badges.pufler.dev/years/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Commits Badge](https://badges.pufler.dev/commits/monthly/nilutpolkashyap)](https://github.com/nilutpolkashyap) 
+______________________________________________________________________________________________________
+# My Github Stats
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 ______________________________________________________________________________________________________
 ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true)
 
@@ -63,12 +72,7 @@ ________________________________________________________________________________
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&langs_count=8)]() 
 -->
-<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
-<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+
 
 
 
