@@ -80,7 +80,7 @@ ________________________________________________________________________________
 
 <div align=“center”>
 
-<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/bd78f2b0e9a175ec1034d91d7c224b5c9d5ee494/thanks.svg" width="350" title="hover text">
+<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/bd78f2b0e9a175ec1034d91d7c224b5c9d5ee494/thanks.svg" width="100%" title="hover text">
 <br />
 </div>
 
