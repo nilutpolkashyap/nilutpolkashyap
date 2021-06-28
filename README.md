@@ -78,6 +78,10 @@ ________________________________________________________________________________
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&langs_count=8)]() 
 -->
 
+<div align=“center”>
 
+<img height=“120” alt=“ Thanks for visiting my profile” width=“100%” src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/bd78f2b0e9a175ec1034d91d7c224b5c9d5ee494/thanks.svg" />
+<br />
+</div>
 
 
