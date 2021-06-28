@@ -15,7 +15,9 @@ ________________________________________________________________________________
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 ______________________________________________________________________________________________________
-# My Github Stats
+
+<h1 align="center"><b> My Github Stats </b></h1>
+
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" width="30%"/>
 </a>
@@ -31,12 +33,17 @@ ________________________________________________________________________________
 
 <!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true) -->
 
+
+<h1 align="center"><b> PROJECTS GALLERY </b></h1>
+
 <div align=“center”>
 <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage.gif" width="100%" title="hover text">
 </div>
 
 ______________________________________________________________________________________________________
 
+
+<h1 align="center"><b> My Tech Stack </b></h1>
 
 ### Programming Languages 🧑‍💻 ⌨️ 🖱️
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> &ensp;
