@@ -4,8 +4,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Years Badge](https://badges.pufler.dev/years/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Commits Badge](https://badges.pufler.dev/commits/monthly/nilutpolkashyap)](https://github.com/nilutpolkashyap) 
 
 ____________________________________________________________________________________________
-# About ME
-<h2 align="center"><b> About ME </b></h2>
+<h1 align="center"><b> About ME </b></h1>
 - 🔭 I’m currently working on **"something cooking!!🤐"**
 - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation**
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
