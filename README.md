@@ -33,6 +33,7 @@ ________________________________________________________________________________
 <div align=“center”>
 <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage.gif" width="100%" title="hover text">
 </div>
+
 ______________________________________________________________________________________________________
 
 
@@ -84,7 +85,7 @@ ________________________________________________________________________________
 <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage2_crop.jpg" width="100%" title="hover text">
 </div>
  -->
-______________________________________________________________________________________________________
+
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&count_private=true)
 
@@ -96,4 +97,4 @@ ________________________________________________________________________________
 <br />
 </div>
 
-
+______________________________________________________________________________________________________
