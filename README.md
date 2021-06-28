@@ -1,9 +1,8 @@
 <!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/main.JPG?raw=true) -->
 ![my_intro_gif](https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/name.gif)
-
-<div align="center"> 
+  
 [![Repos Badge](https://badges.pufler.dev/repos/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Years Badge](https://badges.pufler.dev/years/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Commits Badge](https://badges.pufler.dev/commits/monthly/nilutpolkashyap)](https://github.com/nilutpolkashyap) 
-</div>
+
 ____________________________________________________________________________________________
 - 🔭 I’m currently working on "something cooking!!🤐"
 - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation**
