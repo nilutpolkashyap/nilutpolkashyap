@@ -30,7 +30,7 @@ ________________________________________________________________________________
 ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true)
 
 <div align=“center”>
-<img src="https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true" width="50%" title="hover text">
+<img src="https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true" width="80%" title="hover text">
 </div>
 
 
