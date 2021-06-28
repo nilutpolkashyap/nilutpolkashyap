@@ -5,6 +5,7 @@
 
 ____________________________________________________________________________________________
 # About ME
+<h2 align="center"><b> About ME </b></h2>
 - 🔭 I’m currently working on **"something cooking!!🤐"**
 - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation**
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
