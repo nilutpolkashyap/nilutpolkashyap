@@ -4,7 +4,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Years Badge](https://badges.pufler.dev/years/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Commits Badge](https://badges.pufler.dev/commits/monthly/nilutpolkashyap)](https://github.com/nilutpolkashyap) 
 
 ____________________________________________________________________________________________
-- 🔭 I’m currently working on "something cooking!!🤐"
+- 🔭 I’m currently working on **"something cooking!!🤐"**
 - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation**
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
 - 👯 I’m looking to collaborate on **ROS and Computer Vision Projects**
@@ -77,7 +77,11 @@ ________________________________________________________________________________
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  &ensp;
 
 ______________________________________________________________________________________________________
-![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/collage2.jpg)
+<!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/collage2.jpg) -->
+
+<div align=“center”>
+<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage2_crop.jpg" width="100%" title="hover text">
+</div>
 
 ______________________________________________________________________________________________________
 <!--
@@ -87,8 +91,7 @@ ________________________________________________________________________________
 -->
 
 <div align=“center”>
-
-<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/bd78f2b0e9a175ec1034d91d7c224b5c9d5ee494/thanks.svg" width="100%" title="hover text">
+<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/bd78f2b0e9a175ec1034d91d7c224b5c9d5ee494/thanks.svg" width="120%" title="hover text">
 <br />
 </div>
 
