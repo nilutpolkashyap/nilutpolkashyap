@@ -31,7 +31,7 @@ ________________________________________________________________________________
 <!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true) -->
 
 <div align=“center”>
-<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage1_crop.JPG" width="100%" title="hover text">
+<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage.gif" width="100%" title="hover text">
 </div>
 ______________________________________________________________________________________________________
 
@@ -78,12 +78,12 @@ ________________________________________________________________________________
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  &ensp;
 
 ______________________________________________________________________________________________________
-<!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/collage2.jpg) -->
+<!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/collage2.jpg) 
 
 <div align=“center”>
 <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage2_crop.jpg" width="100%" title="hover text">
 </div>
-
+ -->
 ______________________________________________________________________________________________________
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&count_private=true)
