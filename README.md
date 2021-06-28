@@ -19,6 +19,18 @@ ________________________________________________________________________________
 - 📫 You can reach me out at <a href="nilutpolkashyap@gmail.com">nilutpolkashyap@gmail.com</a> :email:
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
+
+
+
+
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/cool_robots.gif" width="80%" title="I make cool robots">
+
+</div>
+
+
 ______________________________________________________________________________________________________
 
 <h1 align="center"><b> 📈My Github Stats📊 </b></h1>
