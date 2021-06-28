@@ -1,10 +1,17 @@
 <!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/main.JPG?raw=true) -->
 ![my_intro_gif](https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/name.gif)
   
+<div align="center">
+  
 [![Repos Badge](https://badges.pufler.dev/repos/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Years Badge](https://badges.pufler.dev/years/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Commits Badge](https://badges.pufler.dev/commits/monthly/nilutpolkashyap)](https://github.com/nilutpolkashyap) 
 
+</div>
+
 ____________________________________________________________________________________________
-- 🔭 I’m currently working on "something cooking!!🤐"
+
+<h1 align="center"><b> 👦About ME🤖 </b></h1>
+
+- 🔭 I’m currently working on **"something cooking!!🤐"**
 - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation**
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
 - 👯 I’m looking to collaborate on **ROS and Computer Vision Projects**
@@ -13,7 +20,11 @@ ________________________________________________________________________________
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 ______________________________________________________________________________________________________
-# My Github Stats
+
+<h1 align="center"><b> 📈My Github Stats📊 </b></h1>
+
+<div align="center">
+
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" width="30%"/>
 </a>
@@ -23,17 +34,25 @@ ________________________________________________________________________________
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nilutpol's GitHub Stats" width="45%"/>
 </a>
+  
+</div>
 
 ______________________________________________________________________________________________________
 
 
-![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true)
+<!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true) -->
+
+
+<h1 align="center"><b> 🖼️PROJECTS GALLERY📹 </b></h1>
 
 <div align=“center”>
-<img src="https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true" width="80%" title="hover text">
+<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage.gif" width="100%" title="hover text">
 </div>
 
+______________________________________________________________________________________________________
 
+
+<h1 align="center"><b> 🤖🖱️My Tech Stack💻✉️ </b></h1>
 
 ### Programming Languages 🧑‍💻 ⌨️ 🖱️
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> &ensp;
@@ -77,9 +96,13 @@ ________________________________________________________________________________
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  &ensp;
 
 ______________________________________________________________________________________________________
-![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/collage2.jpg)
+<!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/collage2.jpg) 
 
-______________________________________________________________________________________________________
+<div align=“center”>
+<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage2_crop.jpg" width="100%" title="hover text">
+</div>
+ -->
+
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&count_private=true)
 
@@ -87,9 +110,8 @@ ________________________________________________________________________________
 -->
 
 <div align=“center”>
-
-<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/bd78f2b0e9a175ec1034d91d7c224b5c9d5ee494/thanks.svg" width="100%" title="hover text">
+<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/bd78f2b0e9a175ec1034d91d7c224b5c9d5ee494/thanks.svg" width="120%" title="hover text">
 <br />
 </div>
 
-
+______________________________________________________________________________________________________
