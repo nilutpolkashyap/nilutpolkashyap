@@ -4,6 +4,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Years Badge](https://badges.pufler.dev/years/nilutpolkashyap)](https://github.com/nilutpolkashyap) [![Commits Badge](https://badges.pufler.dev/commits/monthly/nilutpolkashyap)](https://github.com/nilutpolkashyap) 
 
 ____________________________________________________________________________________________
+# About ME
 - 🔭 I’m currently working on **"something cooking!!🤐"**
 - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation**
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
@@ -32,7 +33,7 @@ ________________________________________________________________________________
 <div align=“center”>
 <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage1_crop.JPG" width="100%" title="hover text">
 </div>
-
+______________________________________________________________________________________________________
 
 
 ### Programming Languages 🧑‍💻 ⌨️ 🖱️
