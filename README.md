@@ -34,6 +34,30 @@ $ pip install -r requirements.txt
 ```
 </details>
 
+<details open>
+<summary>Install</summary>
+
+Python >= 3.6.0 required with all [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) dependencies installed:
+
+```bash
+$ git clone 
+$ cd 
+$ pip install -r requirements.txt
+```
+</details>
+
+<details open>
+<summary>Install</summary>
+
+Python >= 3.6.0 required with all [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) dependencies installed:
+
+```bash
+$ git clone 
+$ cd 
+$ pip install -r requirements.txt
+```
+</details>
+
 
 
 <div align="center">
