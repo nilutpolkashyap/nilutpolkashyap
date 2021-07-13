@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 <h1 align="center"><b> 👦About ME🤖 </b></h1>
 
-<details open>
+
 
 - 🔭 I’m currently working on **"something cooking!!🤐"**
 - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation**
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
-</details>
+
 <!--
 
 <details open>
