@@ -22,7 +22,7 @@ ________________________________________________________________________________
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
-<details>
+</details>
 <!--
 
 <details open>
