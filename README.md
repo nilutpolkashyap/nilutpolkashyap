@@ -21,6 +21,7 @@ ________________________________________________________________________________
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
 
+<!--
 
 <details open>
 <summary>Install</summary>
@@ -58,6 +59,7 @@ $ pip install -r requirements.txt
 ```
 </details>
 
+-->
 
 
 <div align="center">
