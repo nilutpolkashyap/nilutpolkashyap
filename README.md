@@ -53,6 +53,21 @@ ________________________________________________________________________________
   
 </details>
 
+<details>
+  <summary> 1. Differential Drive Robot - ROS & Gazebo </summary>
+
+  <h3>  Bug Robot </h3>
+
+<p>
+  Updating details soon
+</p>
+  
+</details>
+
+
+
+____________________________________________________________________________________________
+
 <!--
 <details>
 <summary>Install</summary>
