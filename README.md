@@ -36,8 +36,9 @@ $ cd
 $ pip install -r requirements.txt
 ```
 </details>
+-->
 
-<details open>
+<details>
 <summary>Install</summary>
 
 Python >= 3.6.0 required with all [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) dependencies installed:
@@ -60,8 +61,6 @@ $ cd
 $ pip install -r requirements.txt
 ```
 </details>
-
--->
 
 
 <div align="center">
