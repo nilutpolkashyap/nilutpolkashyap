@@ -38,6 +38,22 @@ $ pip install -r requirements.txt
 </details>
 -->
 
+____________________________________________________________________________________________
+
+<h1 align="center"><b> �😎Relevant Projects�✌️ </b></h1>
+
+<details>
+  <summary><h2> Bug Robot - ROS & Gazebo </h2></summary>
+
+  <h3>  Bug Robot </h3>
+
+<p>
+  Updating details soon
+</p>
+  
+</details>
+
+<!--
 <details>
 <summary>Install</summary>
 
@@ -49,18 +65,7 @@ $ cd
 $ pip install -r requirements.txt
 ```
 </details>
-
-<details>
-<summary>Install</summary>
-
-Python >= 3.6.0 required with all [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) dependencies installed:
-
-```bash
-$ git clone 
-$ cd 
-$ pip install -r requirements.txt
-```
-</details>
+-->
 
 
 <div align="center">
