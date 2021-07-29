@@ -40,10 +40,10 @@ $ pip install -r requirements.txt
 
 ____________________________________________________________________________________________
 
-<h1 align="center"><b> �😎Relevant Projects�✌️ </b></h1>
+<h1 align="center"><b> 😎Relevant Projects✌️ </b></h1>
 
 <details>
-  <summary><h2> Bug Robot - ROS & Gazebo </h2></summary>
+  <summary> 1. Bug Robot - ROS & Gazebo </summary>
 
   <h3>  Bug Robot </h3>
 
