@@ -70,7 +70,7 @@ ________________________________________________________________________________
   <h3>  Python 3, OpenCV, Intel OpenVINO Toolkit </h3>
 
 <p>
-  People and Face Detection in Video for Security Surveillance using the Intel Distribution of OpenVINO toolkit.
+  People and Face Detection in Video for Security Surveillance using the Intel Distribution of OpenVINO toolkit. <br>
   Repository Link - [person_and_face_detection](https://github.com/nilutpolkashyap/person_and_face_detection)
 </p>
   
