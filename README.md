@@ -43,7 +43,7 @@ ________________________________________________________________________________
 <h1 align="center"><b> 😎Relevant Projects✌️ </b></h1>
 
 <details>
-  <summary> 1. Bug Robot - ROS & Gazebo </summary>
+  <summary> 1️⃣ Bug Robot - ROS & Gazebo </summary>
 
   <h3>  Bug Robot </h3>
 
@@ -54,7 +54,7 @@ ________________________________________________________________________________
 </details>
 
 <details>
-  <summary> 2. Differential Drive Robot - ROS & Gazebo </summary>
+  <summary> 2️⃣ Differential Drive Robot - ROS & Gazebo </summary>
 
 <p> <h3>  Python 3, OpenCV, Intel OpenVINO Toolkit </h3>
   <div> <img align="right" src="https://hackster.imgix.net/uploads/attachments/1193570/_7Xq8LetKRG.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="15%"/> </div> <div> People and Face Detection in Video for Security Surveillance using the Intel Distribution of OpenVINO <br> toolkit. It uses the pre-trained models downloaded using the OpenVINO model downloader. <br> Repository Link - [person_and_face_detection](https://github.com/nilutpolkashyap/person_and_face_detection) </div>
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 </details> 
 
 <details>
-  <summary> 3. Person and Face Detection using Intel OpenVINO toolkit  </summary>
+  <summary> 3️⃣ Person and Face Detection using Intel OpenVINO toolkit  </summary>
 
 <p> <h3>  Python 3, OpenCV, Intel OpenVINO Toolkit </h3>
   <div> <img align="right" src="https://hackster.imgix.net/uploads/attachments/1193570/_7Xq8LetKRG.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="15%"/> </div> <div> People and Face Detection in Video for Security Surveillance using the Intel Distribution of OpenVINO toolkit. It uses the pre-trained models downloaded using the OpenVINO model downloader. <br> Repository Link - [person_and_face_detection](https://github.com/nilutpolkashyap/person_and_face_detection) </div>
