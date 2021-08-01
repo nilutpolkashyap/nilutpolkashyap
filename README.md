@@ -51,7 +51,7 @@ ________________________________________________________________________________
   Updating details soon
 </p>
   
-</details> <br>
+</details>
 
 <details>
   <summary> 2. Differential Drive Robot - ROS & Gazebo </summary>
@@ -65,8 +65,6 @@ ________________________________________________________________________________
 
 <details>
   <summary> 3. Person and Face Detection using Intel OpenVINO toolkit  </summary>
-
-  
 
 <p> <h4>  Python 3, OpenCV, Intel OpenVINO Toolkit </h4>
   <div> <img align="right" src="https://hackster.imgix.net/uploads/attachments/1193570/_7Xq8LetKRG.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="15%"/> </div> <div> People and Face Detection in Video for Security Surveillance using the Intel Distribution of OpenVINO toolkit. It uses the pre-trained models downloaded using the OpenVINO model downloader. <br> Repository Link - [person_and_face_detection](https://github.com/nilutpolkashyap/person_and_face_detection) </div>
