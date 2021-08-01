@@ -64,7 +64,7 @@ ________________________________________________________________________________
 </details> 
 
 <details>
-  <summary> <h3> 3. Person and Face Detection using Intel OpenVINO toolkit </h3> </summary>
+  <summary> 3. Person and Face Detection using Intel OpenVINO toolkit  </summary>
 
   
 
@@ -73,7 +73,7 @@ ________________________________________________________________________________
   
 </p>
   
-</details> <br>
+</details> 
 
 
 
