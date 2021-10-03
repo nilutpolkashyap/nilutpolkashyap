@@ -115,10 +115,14 @@ ________________________________________________________________________________
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nilutpol's GitHub Stats" width="45%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" width="45%"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" width="60%"/>
+</a>
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" width="50%"/>
 </a>
   
-[![Nilutpol's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode)](https://git.io/nilutpolkashyap)
+  
+<!-- [![Nilutpol's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode)](https://git.io/nilutpolkashyap) -->
   
 </div>
 
