@@ -106,13 +106,13 @@ ________________________________________________________________________________
 <div align="center">
 
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" width="30%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&theme=algolia" width="30%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nilutpol's GitHub Stats" width="45%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=algolia" alt="Nilutpol's GitHub Stats" width="45%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" />
