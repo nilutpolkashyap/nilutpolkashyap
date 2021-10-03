@@ -106,7 +106,7 @@ ________________________________________________________________________________
 <div align="center">
 
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=10&show_icons=true&theme=algolia" width="33%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=10&show_icons=true&theme=algolia" width="34%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/>
@@ -115,7 +115,7 @@ ________________________________________________________________________________
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="45%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" width="80%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=dark" alt="Nilutpol's GitHub Stats" width="65%"/>
