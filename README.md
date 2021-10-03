@@ -115,10 +115,10 @@ ________________________________________________________________________________
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="45%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" width="80%"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" width="85%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=dark" alt="Nilutpol's GitHub Stats" width="65%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=dark" alt="Nilutpol's GitHub Stats" width="60%"/>
 </a>
   
   
