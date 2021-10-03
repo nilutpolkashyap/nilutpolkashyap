@@ -118,7 +118,7 @@ ________________________________________________________________________________
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" />
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=dark" alt="Nilutpol's GitHub Stats" width="80%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=dark" alt="Nilutpol's GitHub Stats" width="65%"/>
 </a>
   
   
@@ -164,6 +164,7 @@ ________________________________________________________________________________
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> &ensp;
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> &ensp;
 
+<!--
 ### IDEs/ Editors
 <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> &ensp;
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> &ensp;
@@ -172,7 +173,7 @@ ________________________________________________________________________________
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> &ensp;
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> &ensp;
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> &ensp;
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> &ensp;
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> &ensp; 
 
 ### Operating System
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> &ensp;
@@ -182,7 +183,7 @@ ________________________________________________________________________________
 ### Others
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" /> &ensp;
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>  &ensp;
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  &ensp;
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  &ensp; -->
 
 ______________________________________________________________________________________________________
 <!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/collage2.jpg) 
