@@ -14,9 +14,10 @@ ________________________________________________________________________________
 
 
 - 🔭 I’m currently working on **"something cooking!!🤐"**
-- 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation**
+<!-- - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation** -->
+- 🤖 I am interested in **Spatial AI, Path Planning** and **Autonomous Navigation**
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
-- 👯 I’m looking to collaborate on **ROS and Computer Vision Projects**
+- 👯 I’m looking to collaborate on **ROS, Deep Learning and Computer Vision Projects**
 - 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
 - 📫 You can reach me out at <a href="nilutpolkashyap@gmail.com">nilutpolkashyap@gmail.com</a> :email:
 - 😄 Pronouns: **He/Him/His**
