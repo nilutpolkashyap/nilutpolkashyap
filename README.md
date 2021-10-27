@@ -41,7 +41,7 @@ $ pip install -r requirements.txt
 
 ____________________________________________________________________________________________
 
-<h1 align="center"><b> 😎Relevant Projects✌️ </b></h1>
+<h1 align="center"><b> 😎Relevant Projects/Repositories✌️ </b></h1>
 
 <details>
   <summary> 1️⃣ Bug Robot - ROS & Gazebo </summary>
@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and Python. </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="15%"/> </div> <div> <br> Repository Link - [python_opencv_programs](https://github.com/nilutpolkashyap/python_opencv_programs) </div>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="1%"/> </div> <div> <br> Repository Link - [python_opencv_programs](https://github.com/nilutpolkashyap/python_opencv_programs) </div> <br><br>
 </p>
   
 </details>
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and C++. </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_cpp.png" width="15%"/> </div> <div> <br> Repository Link - [cpp_opencv_projects](https://github.com/nilutpolkashyap/cpp_opencv_projects) </div>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_cpp.png" width="15%"/> </div> <div> <br> Repository Link - [cpp_opencv_projects](https://github.com/nilutpolkashyap/cpp_opencv_projects) </div> <br><br>
 </p>
   
 </details>
