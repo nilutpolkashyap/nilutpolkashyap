@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and Python. </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="1%"/> </div> <div> <br> Repository Link - [python_opencv_programs](https://github.com/nilutpolkashyap/python_opencv_programs) </div> <br><br>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="15%"/> </div> <div> <br> Repository Link - [python_opencv_programs](https://github.com/nilutpolkashyap/python_opencv_programs) </div> <br><br>
 </p>
   
 </details>
