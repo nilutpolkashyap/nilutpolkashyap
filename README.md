@@ -55,6 +55,28 @@ ________________________________________________________________________________
 </details>
 
 <details>
+  <summary> 2️⃣ Python OpenCV Projects </summary>
+
+<p>
+  <h3>  Computer Vision Projects using OpenCV and Python. </h3>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="15%"/> </div> <div> <br> Repository Link - [python_opencv_programs](https://github.com/nilutpolkashyap/python_opencv_programs) </div>
+</p>
+  
+</details>
+
+<details>
+  <summary> 3️⃣ C++ OpenCV Projects </summary>  
+
+<p>
+  <h3>  Computer Vision Projects using OpenCV and C++. </h3>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_cpp.png" width="15%"/> </div> <div> <br> Repository Link - [cpp_opencv_projects](https://github.com/nilutpolkashyap/cpp_opencv_projects) </div>
+</p>
+  
+</details>
+
+
+<!--
+<details>
   <summary> 2️⃣ Differential Drive Robot - ROS & Gazebo </summary>
 
 <p> <h3>  Python 3, OpenCV, Intel OpenVINO Toolkit </h3>
@@ -73,7 +95,7 @@ ________________________________________________________________________________
 </p>
   
 </details> 
-
+-->
 <br>
 
 ________________________________________________________________________________________________________________
