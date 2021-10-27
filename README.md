@@ -46,10 +46,9 @@ ________________________________________________________________________________
 <details>
   <summary> 1️⃣ Bug Robot - ROS & Gazebo </summary>
 
-  <h3>  Bug Robot </h3>
-
 <p>
-  Updating details soon
+  <h3>  Bug Robot </h3>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width="15%"/> </div> <div> <br> Repository Link - [bug_robot](https://github.com/nilutpolkashyap/bug_robot) </div> <br><br>
 </p>
   
 </details>
