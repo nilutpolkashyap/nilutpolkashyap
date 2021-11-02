@@ -62,12 +62,24 @@ ________________________________________________________________________________
   
 </details>
 
+
 <details>
   <summary> 3️⃣ C++ OpenCV Projects </summary>  
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and C++. </h3>
   <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_cpp.png" width="15%"/> </div> <div> <br> Repository Link - [cpp_opencv_projects](https://github.com/nilutpolkashyap/cpp_opencv_projects) </div> <br><br>
+</p>
+  
+</details>
+
+
+<details>
+  <summary> 4️⃣ Gym Pose Classifier </summary>  
+
+<p>
+  <h3>  Gym Pose Classifier Using Mediapipe, OpenCV and SKlearn </h3>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gym_pose_classifier/main/prediction.gif" width="15%"/> </div> <div> <br> Repository Link - [cpp_opencv_projects](https://github.com/nilutpolkashyap/gym_pose_classifier) </div> <br><br>
 </p>
   
 </details>
