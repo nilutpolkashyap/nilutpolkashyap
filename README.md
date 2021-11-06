@@ -85,44 +85,12 @@ ________________________________________________________________________________
 </details>
 
 
-<!--
-<details>
-  <summary> 2️⃣ Differential Drive Robot - ROS & Gazebo </summary>
 
-<p> <h3>  Python 3, OpenCV, Intel OpenVINO Toolkit </h3>
-  <div> <img align="right" src="https://hackster.imgix.net/uploads/attachments/1193570/_7Xq8LetKRG.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="15%"/> </div> <div> People and Face Detection in Video for Security Surveillance using the Intel Distribution of OpenVINO <br> toolkit. It uses the pre-trained models downloaded using the OpenVINO model downloader. <br> Repository Link - [person_and_face_detection](https://github.com/nilutpolkashyap/person_and_face_detection) </div>
-  
-</p>
-  
-</details> 
-
-<details>
-  <summary> 3️⃣ Person and Face Detection using Intel OpenVINO toolkit  </summary>
-
-<p> <h3>  Python 3, OpenCV, Intel OpenVINO Toolkit </h3>
-  <div> <img align="right" src="https://hackster.imgix.net/uploads/attachments/1193570/_7Xq8LetKRG.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="15%"/> </div> <div> People and Face Detection in Video for Security Surveillance using the Intel Distribution of OpenVINO toolkit. It uses the pre-trained models downloaded using the OpenVINO model downloader. <br> Repository Link - [person_and_face_detection](https://github.com/nilutpolkashyap/person_and_face_detection) </div>
-  
-</p>
-  
-</details> 
--->
 <br>
 
 ________________________________________________________________________________________________________________
 
-<!--
-<details>
-<summary>Install</summary>
 
-Python >= 3.6.0 required with all [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) dependencies installed:
-
-```bash
-$ git clone 
-$ cd 
-$ pip install -r requirements.txt
-```
-</details>
--->
 
 
 <div align="center">
