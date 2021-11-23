@@ -47,7 +47,8 @@ ________________________________________________________________________________
 
 <p>
   <h3>  Bug Robot </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width="15%"/> </div> <div> <br> Repository Link - [bug_robot](https://github.com/nilutpolkashyap/bug_robot) </div> <br><br>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width="15%"/> </div> <div> <br> 
+  Repository Link - [bug_robot](https://github.com/nilutpolkashyap/bug_robot) </div> <br><br>
 </p>
   
 </details>
@@ -57,24 +58,37 @@ ________________________________________________________________________________
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and Python. </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="15%"/> </div> <div> <br> Repository Link - [python_opencv_programs](https://github.com/nilutpolkashyap/python_opencv_programs) </div> <br><br>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="15%"/> </div> <div> <br> 
+  Repository Link - [self_driving_car](https://github.com/nilutpolkashyap/self_driving_car) 
+  </div> <br><br>
 </p>
   
 </details>
 
 <details>
-  <summary> 2️⃣ Python OpenCV Projects </summary>
+  <summary> 3️⃣ Gym Pose Classifier </summary>  
+
+<p>
+  <h3>  Gym Pose Classifier Using Mediapipe, OpenCV and SKlearn </h3>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gym_pose_classifier/main/prediction.gif" width="15%"/> </div> <div> <br> Repository Link - [cpp_opencv_projects](https://github.com/nilutpolkashyap/gym_pose_classifier) </div> <br><br>
+</p>
+  
+</details>
+
+<details>
+  <summary> 4️⃣ Python OpenCV Projects </summary>
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and Python. </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="15%"/> </div> <div> <br> Repository Link - [python_opencv_programs](https://github.com/nilutpolkashyap/python_opencv_programs) </div> <br><br>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="15%"/> </div> <div> <br> 
+  Repository Link - [python_opencv_programs](https://github.com/nilutpolkashyap/python_opencv_programs) </div> <br><br>
 </p>
   
 </details>
 
 
 <details>
-  <summary> 3️⃣ C++ OpenCV Projects </summary>  
+  <summary> 5️⃣ C++ OpenCV Projects </summary>  
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and C++. </h3>
@@ -84,16 +98,8 @@ ________________________________________________________________________________
 </details>
 
 
-<details>
-  <summary> 4️⃣ Gym Pose Classifier </summary>  
 
-<p>
-  <h3>  Gym Pose Classifier Using Mediapipe, OpenCV and SKlearn </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gym_pose_classifier/main/prediction.gif" width="15%"/> </div> <div> <br> Repository Link - [cpp_opencv_projects](https://github.com/nilutpolkashyap/gym_pose_classifier) </div> <br><br>
-</p>
-  
-</details>
-
+<!--   6️⃣7️⃣8️⃣9️⃣ 	🔟0️⃣*️⃣#️⃣ -->
 
 
 <br>
