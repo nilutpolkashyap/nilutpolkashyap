@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and Python. </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="15%"/> </div> <div> <br> 
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/self_driving_car/main/results.gif" width="15%"/> </div> <div> <br> 
   Repository Link - [self_driving_car](https://github.com/nilutpolkashyap/self_driving_car) 
   </div> <br><br>
 </p>
