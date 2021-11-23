@@ -42,8 +42,8 @@ ________________________________________________________________________________
 
 <h1 align="center"><b> 😎Relevant Projects/Repositories✌️ </b></h1>
 
-<details>
-  <summary> 1️⃣ Bug Robot - ROS & Gazebo </summary>
+<details open>
+  <summary> 1️⃣ Bug Robot - ROS, Gazebo, Rviz, Python 3, Fusion 360 </summary>
 
 <p>
   <h3>  Bug Robot </h3>
@@ -54,7 +54,7 @@ ________________________________________________________________________________
 </details>
 
 <details>
-  <summary> 2️⃣ Self Driving Car Simulation </summary>
+  <summary> 2️⃣ Self Driving Car Simulation - Python 3, Keras, Tensorflow </summary>
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and Python. </h3>
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 </details>
 
 <details>
-  <summary> 3️⃣ Gym Pose Classifier </summary>  
+  <summary> 3️⃣ Gym Pose Classifier - Python 3, OpenCV, Mediapipe, Scikit-learn</summary>  
 
 <p>
   <h3>  Gym Pose Classifier Using Mediapipe, OpenCV and SKlearn </h3>
@@ -76,10 +76,10 @@ ________________________________________________________________________________
 </details>
 
 <details>
-  <summary> 4️⃣ Python OpenCV Projects </summary>
+  <summary> 4️⃣ Python OpenCV Projects - Python 3, OpenCV 4, Jupyter Notebook</summary>
 
 <p>
-  <h3>  Computer Vision Projects using OpenCV and Python. </h3>
+  <h3>  Computer Vision Projects using OpenCV 4 and Python. </h3>
   <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_python.png" width="15%"/> </div> <div> <br> 
   Repository Link - [python_opencv_programs](https://github.com/nilutpolkashyap/python_opencv_programs) </div> <br><br>
 </p>
@@ -88,7 +88,7 @@ ________________________________________________________________________________
 
 
 <details>
-  <summary> 5️⃣ C++ OpenCV Projects </summary>  
+  <summary> 5️⃣ C++ OpenCV Projects - C++14, OpenCV 4, CMake, VS Code</summary>  
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and C++. </h3>
