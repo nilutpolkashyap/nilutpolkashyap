@@ -42,6 +42,7 @@ ________________________________________________________________________________
 
 <h1 align="center"><b> 😎Relevant Projects/Repositories✌️ </b></h1>
 
+<h4> (Click on the projects to expand) </h4>
 <details open>
   <summary> 1️⃣ Bug Robot - ROS, Gazebo, Rviz, Python 3, Fusion 360 </summary>
 
