@@ -134,7 +134,7 @@ ________________________________________________________________________________
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="45%"/>
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nilutpol Kashyap's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nilutpolkashyap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nilutpol Kashyap's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nilutpolkashyap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Nilutpol's GitHub Stats" width="85%"/></a>
 <!-- <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" width="85%"/>
 </a> -->
