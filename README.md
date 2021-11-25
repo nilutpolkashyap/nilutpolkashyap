@@ -1,4 +1,7 @@
 <!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/main.JPG?raw=true) -->
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&lines=Hello+there!;Welcome+to+my+Github!;Have+a+great+day!)](https://git.io/typing-svg)
+____________________________________________________________________________________________
 ![my_intro_gif](https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/name.gif)
   
 <div align="center">
