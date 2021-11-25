@@ -11,9 +11,9 @@ ________________________________________________________________________________
 </div>
 
 ____________________________________________________________________________________________
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="25%"/>
-<h1 align="center"><b> 👦About ME🤖 </b></h1>
 
+<h1 align="center"><b> 👦About ME🤖 </b></h1>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="25%"/>
 - 🔭 I’m currently working on **"something cooking!!🤐"**
 - 🤖 I am interested in **Spatial AI, Path Planning** and **Autonomous Navigation**
 - 🌱 I’m currently learning **Robot Operating System** and **Computer Vision**
