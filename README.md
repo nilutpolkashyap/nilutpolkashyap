@@ -13,7 +13,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________
 
 <h1 align="center"><b> 👦About ME🤖 </b></h1>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/robot.gif" width="30%"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/robot.gif" width="31%"/>
 
 
 - 🔭 I’m currently working on **"something cooking!!🤐"**
