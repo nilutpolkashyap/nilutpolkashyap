@@ -126,7 +126,7 @@ ________________________________________________________________________________
 <div align="center">
 
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=10&show_icons=true&theme=algolia" width="34%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="34%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/>
