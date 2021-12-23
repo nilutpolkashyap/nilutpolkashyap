@@ -56,8 +56,19 @@ ________________________________________________________________________________
   
 </details>
 
+<details open>
+  <summary> 2️⃣ Gripper Robot - ROS, Gazebo, Rviz, Python 3, Fusion 360, QT Designer </summary>
+
+<p>
+  <h3>  Gripper Bot </h3>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gripper_bot/main/images/results1.JPG" width="15%"/> </div> <div> <br> 
+  Repository Link - [gripper_robot](https://github.com/nilutpolkashyap/gripper_bot) </div> <br><br>
+</p>
+  
+</details>
+
 <details>
-  <summary> 2️⃣ Self Driving Car Simulation - Python 3, Keras, Tensorflow </summary>
+  <summary> 3️⃣ Self Driving Car Simulation - Python 3, Keras, Tensorflow </summary>
 
 <p>
   <h3>  Computer Vision Projects using OpenCV and Python. </h3>
@@ -69,7 +80,7 @@ ________________________________________________________________________________
 </details>
 
 <details>
-  <summary> 3️⃣ Gym Pose Classifier - Python 3, OpenCV, Mediapipe, Scikit-learn</summary>  
+  <summary> 4️⃣ Gym Pose Classifier - Python 3, OpenCV, Mediapipe, Scikit-learn</summary>  
 
 <p>
   <h3>  Gym Pose Classifier Using Mediapipe, OpenCV and SKlearn </h3>
@@ -78,8 +89,8 @@ ________________________________________________________________________________
   
 </details>
 
-<details>
-  <summary> 4️⃣ Python OpenCV Projects - Python 3, OpenCV 4, Jupyter Notebook</summary>
+<!-- <details>
+  <summary>  Python OpenCV Projects - Python 3, OpenCV 4, Jupyter Notebook</summary>
 
 <p>
   <h3>  Computer Vision Projects using OpenCV 4 and Python. </h3>
@@ -98,7 +109,7 @@ ________________________________________________________________________________
   <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/opencv_cpp.png" width="15%"/> </div> <div> <br> Repository Link - [cpp_opencv_projects](https://github.com/nilutpolkashyap/cpp_opencv_projects) </div> <br><br>
 </p>
   
-</details>
+</details> -->
 
 
 
