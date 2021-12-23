@@ -51,7 +51,7 @@ ________________________________________________________________________________
 <p>
   <h4> Bug Robot </h4>
   ROS, Gazebo, Rviz, Python 3, Fusion 360
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width="15%"/> </div> <div> 
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width="15%"/> </div> <div> <br>
   Repository Link - https://github.com/nilutpolkashyap/bug_robot </div> <br><br>
 </p>
   
@@ -63,30 +63,33 @@ ________________________________________________________________________________
 <p>
   <h4> Gripper Bot </h4> 
   ROS, Gazebo, Rviz, Python 3, Fusion 360, QT Designer
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gripper_bot/main/images/results1.JPG" width="15%"/> </div> <div>  
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/gripper_bot_render.png" width="15%"/> </div> <div>  <br>
   Repository Link - https://github.com/nilutpolkashyap/gripper_bot </div> <br><br>
 </p>
   
 </details>
 
 <details>
-  <summary> 3️⃣ Self Driving Car Simulation - Python 3, Keras, Tensorflow </summary>
+  <summary> 3️⃣ Self Driving Car Simulation - Using Udacity Self Driving Car Simulator </summary>
 
 <p>
-  <h3>  Computer Vision Projects using OpenCV and Python. </h3>
+  <h4>  Self Driving Car Simulation </h4>
+  Python 3, Keras, Tensorflow, OpenCV
   <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/self_driving_car/main/results.gif" width="15%"/> </div> <div> <br> 
-  Repository Link - [self_driving_car](https://github.com/nilutpolkashyap/self_driving_car) 
+  Repository Link - https://github.com/nilutpolkashyap/self_driving_car
   </div> <br><br>
 </p>
   
 </details>
 
 <details>
-  <summary> 4️⃣ Gym Pose Classifier - Python 3, OpenCV, Mediapipe, Scikit-learn</summary>  
+  <summary> 4️⃣ Gym Pose Classifier - </summary>  
 
 <p>
-  <h3>  Gym Pose Classifier Using Mediapipe, OpenCV and SKlearn </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gym_pose_classifier/main/prediction.gif" width="15%"/> </div> <div> <br> Repository Link - [cpp_opencv_projects](https://github.com/nilutpolkashyap/gym_pose_classifier) </div> <br><br>
+  <h4>  Gym Pose Classifier Using Mediapipe, OpenCV and SKlearn </h4>
+  Python 3, OpenCV, Mediapipe, Scikit-learn
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gym_pose_classifier/main/prediction.gif" width="15%"/> </div> <div> <br> 
+  Repository Link - https://github.com/nilutpolkashyap/gym_pose_classifier </div> <br><br>
 </p>
   
 </details>
