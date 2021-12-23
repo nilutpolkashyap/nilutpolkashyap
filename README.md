@@ -57,10 +57,10 @@ ________________________________________________________________________________
 </details>
 
 <details>
-  <summary> 2️⃣ **Gripper Robot - ROS Based Skid-steer drive robot simulation with Gripper and GUI. </summary>
+  <summary> 2️⃣ Gripper Robot - ROS Based Skid-steer drive robot Simulation with Gripper and GUI. </summary>
 
 <p>
-  **Gripper Bot** <br>
+  <h4> Gripper Bot </h4> <br>
   ROS, Gazebo, Rviz, Python 3, Fusion 360, QT Designer
   <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gripper_bot/main/images/results1.JPG" width="15%"/> </div> <div> <br> 
   Repository Link - [gripper_robot](https://github.com/nilutpolkashyap/gripper_bot) </div> <br><br>
