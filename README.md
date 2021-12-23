@@ -56,8 +56,8 @@ ________________________________________________________________________________
   
 </details>
 
-<details open>
-  <summary> 2️⃣ Gripper Robot - ROS, Gazebo, Rviz, Python 3, Fusion 360, QT Designer </summary>
+<details>
+  <summary> 2️⃣ **Gripper Robot** - ROS, Gazebo, Rviz, Python 3, Fusion 360, QT Designer </summary>
 
 <p>
   <h3>  Gripper Bot </h3>
