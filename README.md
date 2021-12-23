@@ -46,12 +46,13 @@ ________________________________________________________________________________
 <h1 align="center"><b> 😎Relevant Projects/Repositories✌️ </b></h1>
 
 <details open>
-  <summary> 1️⃣ Bug Robot - ROS, Gazebo, Rviz, Python 3, Fusion 360 </summary>
+  <summary> 1️⃣ Bug Robot - ROS Based Differential Robot with GMapping and AMCL for Autonomous Navigation. </summary>
 
 <p>
-  <h3>  Bug Robot </h3>
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width="15%"/> </div> <div> <br> 
-  Repository Link - [bug_robot](https://github.com/nilutpolkashyap/bug_robot) </div> <br><br>
+  <h4> Bug Robot </h4>
+  ROS, Gazebo, Rviz, Python 3, Fusion 360
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width="15%"/> </div> <div> 
+  Repository Link - https://github.com/nilutpolkashyap/bug_robot </div> <br><br>
 </p>
   
 </details>
@@ -60,10 +61,10 @@ ________________________________________________________________________________
   <summary> 2️⃣ Gripper Robot - ROS Based Skid-steer drive robot Simulation with Gripper and GUI. </summary>
 
 <p>
-  <h4> Gripper Bot </h4> <br>
+  <h4> Gripper Bot </h4> 
   ROS, Gazebo, Rviz, Python 3, Fusion 360, QT Designer
-  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gripper_bot/main/images/results1.JPG" width="15%"/> </div> <div> <br> 
-  Repository Link - [gripper_robot](https://github.com/nilutpolkashyap/gripper_bot) </div> <br><br>
+  <div> <img align="right" src="https://raw.githubusercontent.com/nilutpolkashyap/gripper_bot/main/images/results1.JPG" width="15%"/> </div> <div>  
+  Repository Link - https://github.com/nilutpolkashyap/gripper_bot </div> <br><br>
 </p>
   
 </details>
