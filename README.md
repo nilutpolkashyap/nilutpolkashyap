@@ -236,8 +236,6 @@ ________________________________________________________________________________
 
 <h1 align="center"><b> Want To HIRE ME? Fill Out This FORM</b></h1>
 Contact Form Link - <a href="https://docs.google.com/forms/d/e/1FAIpQLSee9UzIhQzuRDFr6RodI4_T8tM16b6PEAtCc-ZZvXFVWk4i-g/viewform?usp=sf_link">Contact ME</a>
-[fusion2urdf](https://github.com/syuntoku14/fusion2urdf)
-[contact_nilutpol_kashyap](https://docs.google.com/forms/d/e/1FAIpQLSee9UzIhQzuRDFr6RodI4_T8tM16b6PEAtCc-ZZvXFVWk4i-g/viewform?usp=sf_link)
 
 ______________________________________________________________________________________________________
 
