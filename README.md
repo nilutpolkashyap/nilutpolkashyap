@@ -15,7 +15,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________
 
 <h1 align="center"><b> 👦About ME🤖 </b></h1>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/robot.gif" width="19%"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/robot.gif" width="19%"/> -->
 
 
 - 🔭 I’m currently working on **"something cooking!!🤐"**
@@ -23,6 +23,7 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning **ROS 2** and **3D Vision**
 - 👯 I’m looking to collaborate on **ROS, Deep Learning and Computer Vision Projects**
 - 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
+- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/robot.gif" width="19%"/>
 - 📫 You can reach me out at <a href="nilutpolkashyap@gmail.com">nilutpolkashyap@gmail.com</a> :email:
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
