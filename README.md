@@ -147,10 +147,10 @@ ________________________________________________________________________________
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="34%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/>
+  <img align="left" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="45%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="45%"/>
 </a>
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nilutpol Kashyap's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nilutpolkashyap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Nilutpol's GitHub Stats" width="85%"/></a> -->
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
