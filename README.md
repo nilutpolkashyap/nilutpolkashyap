@@ -142,17 +142,19 @@ ________________________________________________________________________________
 <!-- <h1 align="center"><b> 📈My Github Stats📊 </b></h1> -->
 
 <div >
-
+<div >
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="27%"/>
-</a>
+</a>  </div>
+<div >
 <a align="left" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
 <!--   <img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/> -->
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/robot.gif" width="19%"/>
-</a>
-<a align="left" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+</a> </div>
+<div >
+  <a align="left" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img  src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="28%"/>
-</a>
+</a> </div>
 </div>
 
 <div align="center">
