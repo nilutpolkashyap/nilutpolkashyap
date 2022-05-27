@@ -143,8 +143,8 @@ ________________________________________________________________________________
 
 <div >
 <div >
-<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="27%"/>
+<a align="left" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="20%"/>
 </a>  </div>
 <div >
 <a align="left" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
