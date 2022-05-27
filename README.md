@@ -144,14 +144,13 @@ ________________________________________________________________________________
 <div >
 
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="37%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="37%"/>
 </a>
-  <!--
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="left" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/>
-</a> -->
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/>
+</a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="48%"/>
 </a>
 </div>
 
