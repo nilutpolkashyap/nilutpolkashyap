@@ -141,7 +141,7 @@ ________________________________________________________________________________
 
 <h1 align="center"><b> 📈My Github Stats📊 </b></h1>
 
-<div align="center">
+<div >
 
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="34%"/>
