@@ -142,14 +142,14 @@ ________________________________________________________________________________
 <!-- <h1 align="center"><b> 📈My Github Stats📊 </b></h1> -->
 
 <div >
-<a align="left" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="40%"/>
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=algolia" width="40%"/>
 </a>  
 <!-- <a align="center" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/>
 </a>  -->
-  <a align="right" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img  src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="40%"/>
+  <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="50%"/>
 </a> 
 </div>
 
