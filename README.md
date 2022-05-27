@@ -131,7 +131,7 @@ ________________________________________________________________________________
 
 
 <div>
-<img align="center" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/cool_robots.gif" width="80%" title="I make cool robots"/>
+<img align="center" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/cool_robots.gif" width="80%"/>
 </div>
 
 
