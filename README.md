@@ -152,7 +152,7 @@ ________________________________________________________________________________
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/robot.gif" width="19%"/>
 </a> </div>
 <div >
-  <a align="left" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <a align="right" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img  src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="28%"/>
 </a> </div>
 </div>
