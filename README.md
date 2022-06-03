@@ -234,10 +234,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 <div  align="center">
-<h1><b> Want To HIRE ME? Fill Out This FORM</b></h1>
-Contact Form Link - <a href="https://docs.google.com/forms/d/e/1FAIpQLSee9UzIhQzuRDFr6RodI4_T8tM16b6PEAtCc-ZZvXFVWk4i-g/viewform?usp=sf_link">Contact ME</a>
+<h1><b> Want To HIRE ME? <a href="https://docs.google.com/forms/d/e/1FAIpQLSee9UzIhQzuRDFr6RodI4_T8tM16b6PEAtCc-ZZvXFVWk4i-g/viewform?usp=sf_link">Fill Out This FORM </a></b></h1>
 </div>
-
+<!-- Contact Form Link - <a href="https://docs.google.com/forms/d/e/1FAIpQLSee9UzIhQzuRDFr6RodI4_T8tM16b6PEAtCc-ZZvXFVWk4i-g/viewform?usp=sf_link">Contact ME</a> -->
 ______________________________________________________________________________________________________
 
 <!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/main/collage2.jpg) 
