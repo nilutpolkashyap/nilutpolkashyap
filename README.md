@@ -155,7 +155,7 @@ ________________________________________________________________________________
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=monokai" alt="Nilutpol's GitHub Stats" width="85%"/>
 </a>
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=moltack" alt="Nilutpol's GitHub Stats" width="60%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=blue-green" alt="Nilutpol's GitHub Stats" width="60%"/>
 </a>
   
   
