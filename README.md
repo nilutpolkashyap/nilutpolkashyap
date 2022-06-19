@@ -145,7 +145,7 @@ ________________________________________________________________________________
   <img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="12%"/>
 </a> 
   <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=great-gatsby" alt="Nilutpol's GitHub Stats" width="43%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=great-gatsby" alt="Nilutpol's GitHub Stats" width="44%"/>
 </a> 
 </div>
 
