@@ -139,13 +139,13 @@ ________________________________________________________________________________
 
 <div >
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=maroongold" width="44%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=maroongold" width="43%"/>
 </a>  
 <!-- <a align="center" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="10%"/>
 </a>  -->
   <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=great-gatsby" alt="Nilutpol's GitHub Stats" width="54%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=great-gatsby" alt="Nilutpol's GitHub Stats" width="53%"/>
 </a> 
 </div>
 
