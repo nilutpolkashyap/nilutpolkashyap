@@ -123,13 +123,40 @@ ________________________________________________________________________________
 <!--   6️⃣7️⃣8️⃣9️⃣ 	🔟0️⃣*️⃣#️⃣ -->
 
 
+____________________________________________________________________________________________
+
+<h1 align="center"><b> 😎Notable Open Source Contributions✌️ </b></h1>
+
+<details>
+  <summary> 1️⃣  stereolabs/zed-examples PR #497  </summary>
+
+<p>
+  Made changes in the tensorrt yolov5 examples #497 <br>
+  PR Link - https://github.com/stereolabs/zed-examples/pull/497 </div> <br><br>
+  PR Status  - Merged
+</p>
+  
+</details>
+
+<details>
+  <summary> 2️⃣ stereolabs/zed-yolo PR #53 </summary>
+
+<p>
+  Updated Zed yolo examples for both c++ and python #53 <br>
+  PR Link - https://github.com/stereolabs/zed-yolo/pull/53 </div> <br><br>
+  PR Status - Merged
+</p>
+  
+</details>
+
+
 ________________________________________________________________________________________________________________
 
 
 
 
-<div>
-<img align="center" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/cool_robots.gif" width="80%"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/cool_robots.gif" width="80%"/>
 </div>
 
 
