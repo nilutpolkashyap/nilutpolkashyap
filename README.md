@@ -125,7 +125,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________
 
-<h1 align="center"><b> 😎Notable Open Source Contributions✌️ </b></h1>
+<h1 align="center"><b> 🏆Notable Open Source Contributions✌⭐ </b></h1>
 
 <details>
   <summary> 1️⃣  stereolabs/zed-examples PR #497  </summary>
