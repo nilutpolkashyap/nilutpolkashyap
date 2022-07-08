@@ -132,7 +132,7 @@ ________________________________________________________________________________
 
 <p>
   Made changes in the tensorrt yolov5 examples #497 <br>
-  PR Link - https://github.com/stereolabs/zed-examples/pull/497 </div> <br><br>
+  PR Link - https://github.com/stereolabs/zed-examples/pull/497 </div> <br>
   PR Status  - Merged
 </p>
   
@@ -143,7 +143,18 @@ ________________________________________________________________________________
 
 <p>
   Updated Zed yolo examples for both c++ and python #53 <br>
-  PR Link - https://github.com/stereolabs/zed-yolo/pull/53 </div> <br><br>
+  PR Link - https://github.com/stereolabs/zed-yolo/pull/53 </div> <br>
+  PR Status - Merged
+</p>
+  
+</details>
+
+<details>
+  <summary> 3️⃣  MehmetOKUYAR/Yolo-Object-Detection-and-Distance-Measurement-with-Zed-camera  PR #3 </summary>
+
+<p>
+  Modified the zed.py code to include cli arguments #53 <br>
+  PR Link - https://github.com/MehmetOKUYAR/Yolo-Object-Detection-and-Distance-Measurement-with-Zed-camera/pull/3 </div> <br>
   PR Status - Merged
 </p>
   
