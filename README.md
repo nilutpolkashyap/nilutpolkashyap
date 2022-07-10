@@ -23,25 +23,13 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning **ROS 2** and **3D Vision**
 - 👯 I’m looking to collaborate on **ROS, Deep Learning and Computer Vision Projects**
 - 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
-- 📫 You can reach me out at <a href="nilutpolkashyap@gmail.com">nilutpolkashyap@gmail.com</a> :email:
+- 📫 You can visit my **Portfolio** at nilutpolkashyap.github.io
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
-<!-- - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation** -->
+<!-- - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation** 
+- 📫 You can reach me out at <a href="nilutpolkashyap@gmail.com">nilutpolkashyap@gmail.com</a> :email: -->
 <!--
-
-<details open>
-<summary>Install</summary>
-
-Python >= 3.6.0 required with all [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) dependencies installed:
-
-```bash
-$ git clone 
-$ cd 
-$ pip install -r requirements.txt
-```
-</details>
--->
 
 ____________________________________________________________________________________________
 
