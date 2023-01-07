@@ -33,12 +33,12 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________
 
-<h1 align="center"><b> 😎Relevant Projects/Repositories✌️ </b></h1>
+<!-- <h1 align="center"><b> 😎Relevant Projects/Repositories✌️ </b></h1>
 
 | [Bug Robot](https://github.com/nilutpolkashyap/bug_robot) | [Gripper Robot](https://github.com/nilutpolkashyap/gripper_bot) | [Self Driving Car Simulation](https://github.com/nilutpolkashyap/self_driving_car) | [Line Follower Robot](https://github.com/nilutpolkashyap/maze_robot) |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 |ROS Differential-drive Robot with SLAM and Autonomous Navigation | ROS Skid-steer drive Robot Simulation with Gripper and GUI | Udacity Self Driving Car Simulation | ROS  Line Follower robot simulation in Gazebo |
-| <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width=145> | <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/gripper_bot_render.png" width=225> |  <img src="https://raw.githubusercontent.com/nilutpolkashyap/self_driving_car/main/results.gif" width=145> |  <img src="https://raw.githubusercontent.com/nilutpolkashyap/maze_robot/main/resources/maze_robot.png" width=225> |
+| <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width=145> | <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/gripper_bot_render.png" width=225> |  <img src="https://raw.githubusercontent.com/nilutpolkashyap/self_driving_car/main/results.gif" width=145> |  <img src="https://raw.githubusercontent.com/nilutpolkashyap/maze_robot/main/resources/maze_robot.png" width=225> | -->
 
 <!--
 <details open>
