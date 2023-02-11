@@ -35,10 +35,10 @@ ________________________________________________________________________________
 
 <h1 align="center"><b> 😎Relevant Projects/Repositories✌️ </b></h1>
 
-| [Bug Robot](https://github.com/nilutpolkashyap/bug_robot) | [Gripper Robot](https://github.com/nilutpolkashyap/gripper_bot) | [Self Driving Car Simulation](https://github.com/nilutpolkashyap/self_driving_car) | [Line Follower Robot](https://github.com/nilutpolkashyap/maze_robot) |
+| [Bug Robot](https://github.com/nilutpolkashyap/bug_robot) | [Gripper Robot](https://github.com/nilutpolkashyap/gripper_bot) | [Line Follower/ Maze Solver](https://github.com/nilutpolkashyap/maze_robot) | [Self Driving Car Simulation](https://github.com/nilutpolkashyap/self_driving_car)  |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 |ROS Differential-drive Robot with SLAM and Autonomous Navigation | ROS - Robot Simulation with Gripper and GUI. | ROS - Line Follower and Maze Solver Robot Using OpenCV | Udacity Self Driving Car Simulation |
-| <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width=145> | <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/results1.JPG" width=225>  |  <img src="https://raw.githubusercontent.com/nilutpolkashyap/maze_robot/main/resources/output.JPG" width=225> |  <img src="https://raw.githubusercontent.com/nilutpolkashyap/self_driving_car/main/results.gif" width=145> |
+| <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/bug_robot_render.png" width=145> | <img src="https://raw.githubusercontent.com/nilutpolkashyap/gripper_bot/main/results1.JPG" width=225>  |  <img src="https://raw.githubusercontent.com/nilutpolkashyap/maze_robot/main/resources/output.JPG" width=225> |  <img src="https://raw.githubusercontent.com/nilutpolkashyap/self_driving_car/main/results.gif" width=145> |
 
 <!--
 <details open>
