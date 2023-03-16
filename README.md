@@ -184,8 +184,8 @@ ________________________________________________________________________________
 
 <div align="center">
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nilutpol Kashyap's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nilutpolkashyap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Nilutpol's GitHub Stats" width="85%"/></a> -->
-<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  [![Nilutpol's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nilutpolkashyap)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nilutpolkashyap&theme=merko&area=true&hide_border=true#gh-dark-mode-only" width="85%">
 </a>
   
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
