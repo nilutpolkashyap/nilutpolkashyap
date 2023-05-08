@@ -170,17 +170,17 @@ ________________________________________________________________________________
 
  <h1 align="center"><b> 📈My Github Stats📊 </b></h1> 
 
-<div >
+<!-- <div >
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=5&show_icons=true&theme=maroongold" width="43%"/>
 </a>  
-<!-- <a align="center" href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="10%"/>
-</a>  -->
   <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=great-gatsby" alt="Nilutpol's GitHub Stats" width="51%"/>
 </a> 
-</div>
+</div> -->
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilutpolkashyap&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilutpolkashyap&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilutpolkashyap&theme=dracula)|
+|-----|------|------|
 
 <div align="center">
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nilutpol Kashyap's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nilutpolkashyap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Nilutpol's GitHub Stats" width="85%"/></a> -->
