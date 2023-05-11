@@ -203,11 +203,11 @@ ________________________________________________________________________________
 <!-- ![alt text](https://github.com/nilutpolkashyap/nilutpolkashyap/raw/nilutpolkashyap-patch-1/collage1.JPG?raw=true) -->
 
 
-<h1 align="center"><b> 🖼️PROJECTS GALLERY📹 </b></h1>
+<!-- <h1 align="center"><b> 🖼️PROJECTS GALLERY📹 </b></h1>
 
 <div align=“center”>
 <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/nilutpolkashyap-patch-1/collage.gif" width="100%" title="hover text">
-</div>
+</div> -->
 
 ______________________________________________________________________________________________________
 
