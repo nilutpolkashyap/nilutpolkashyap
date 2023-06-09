@@ -182,11 +182,7 @@ ________________________________________________________________________________
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilutpolkashyap&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilutpolkashyap&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilutpolkashyap&theme=dracula)|
 |-----|------|------|
 
-<div align="center">
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nilutpol Kashyap's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nilutpolkashyap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Nilutpol's GitHub Stats" width="85%"/></a> -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nilutpolkashyap&theme=merko&area=true&hide_border=true#gh-dark-mode-only" width="85%">
-</a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nilutpolkashyap&bg_color=082553&title_color=F85D7F&area=true&area_color=18ae11&custom_title=Nilutpol%20Kashyap's%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=blue-green" alt="Nilutpol's GitHub Stats" width="60%"/>
