@@ -182,15 +182,14 @@ ________________________________________________________________________________
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilutpolkashyap&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilutpolkashyap&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilutpolkashyap&theme=dracula)|
 |-----|------|------|
 
+<div align="center">
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nilutpolkashyap&bg_color=082553&title_color=F85D7F&area=true&area_color=18ae11&custom_title=Nilutpol%20Kashyap's%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=blue-green" alt="Nilutpol's GitHub Stats" width="60%"/>
 </a>
-  
-  
-<!-- [![Nilutpol's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode)](https://git.io/nilutpolkashyap) -->
-  
+    
 </div>
 
 <!-- ______________________________________________________________________________________________________ -->
