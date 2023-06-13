@@ -179,7 +179,9 @@ ________________________________________________________________________________
 </a> 
 </div> -->
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilutpolkashyap&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilutpolkashyap&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilutpolkashyap&theme=dracula)|
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilutpolkashyap&theme=codeSTACKr)
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilutpolkashyap&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilutpolkashyap&theme=buefy)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilutpolkashyap&theme=moltack)|
 |-----|------|------|
 
 <div align="center">
