@@ -189,11 +189,13 @@ ________________________________________________________________________________
 |-----|------|------|
 
 <div align="center">
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nilutpolkashyap&bg_color=082553&title_color=F85D7F&area=true&area_color=18ae11&custom_title=Nilutpol%20Kashyap's%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nilutpolkashyap&bg_color=049ffd&title_color=FFFFFF&area=true&area_color=2d04fd&custom_title=Nilutpol%20Kashyap's%20Github%20Activity%20Graph&hide_border=true&theme=monokai" alt="Nilutpol's GitHub Stats" width="85%"/>
+</a>
   
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=blue-green" alt="Nilutpol's GitHub Stats" width="60%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=buefy" alt="Nilutpol's GitHub Stats" width="60%"/>
 </a>
     
 </div>
