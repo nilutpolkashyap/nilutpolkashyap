@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 
 - 🔭 I’m currently working on **"something cooking!!🤐"**
-- 🤖 I am interested in **Spatial AI, Path Planning** and **Autonomous Navigation**
+- 🤖 I am interested in **Spatial AI, Path Planning** and **Robot Navigation**
 - 🌱 I’m currently learning **ROS 2** and **3D Vision**
 - 👯 I’m looking to collaborate on **ROS, Deep Learning and Computer Vision Projects**
 - 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
