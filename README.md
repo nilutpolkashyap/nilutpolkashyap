@@ -191,7 +191,7 @@ ________________________________________________________________________________
 <div align="center">
 
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nilutpolkashyap&bg_color=049ffd&title_color=FFFFFF&area=true&area_color=2d04fd&custom_title=Nilutpol%20Kashyap's%20Github%20Activity%20Graph&hide_border=true&theme=monokai" alt="Nilutpol's GitHub Stats" width="85%"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nilutpolkashyap&bg_color=05a187&title_color=FFFFFF&area=true&area_color=2d04fd&custom_title=Nilutpol%20Kashyap's%20Github%20Activity%20Graph&hide_border=true&theme=monokai" alt="Nilutpol's GitHub Stats" width="85%"/>
 </a>
   
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
