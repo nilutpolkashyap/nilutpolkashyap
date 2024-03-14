@@ -18,9 +18,10 @@ ________________________________________________________________________________
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/robot.gif" width="30%"/>
 
 
-- 🔭 I’m currently working on **"something cooking!!🤐"**
+- 🔭 I’m currently working on **Generative AI with Robotics**
 - 🤖 I am interested in **Spatial AI, Path Planning** and **Robot Navigation**
-- 🌱 I’m currently learning **ROS 2** and **3D Vision**
+- 😎 I work at **Portfolio** at [Acceleration Robotics]([https://nilutpolkashyap.github.io/](https://accelerationrobotics.com/))
+- 🌱 I’m currently learning **Generative AI** and **Robotics Theory**
 - 👯 I’m looking to collaborate on **ROS, Deep Learning and Computer Vision Projects**
 - 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
 - 📫 You can visit my **Portfolio** at [nilutpolkashyap.github.io](https://nilutpolkashyap.github.io/)
@@ -28,9 +29,10 @@ ________________________________________________________________________________
 - ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
 
 <!-- - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation** 
+- 🔭 I’m currently working on **"something cooking!!🤐"**
 - 📫 You can reach me out at <a href="nilutpolkashyap@gmail.com">nilutpolkashyap@gmail.com</a> :email: -->
 
-
+<!--
 ____________________________________________________________________________________________
 
 <h1 align="center"><b> 😎Relevant Projects/Repositories✌️ </b></h1>
@@ -39,7 +41,7 @@ ________________________________________________________________________________
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | ROS - Bug 0, 1, 2 Algorithms | ROS - Robot with SLAM & Autonomous Navigation | ROS - Robot Simulation with Gripper & GUI. | ROS - Line Follower & Maze Solver Robot Using OpenCV | 
 | <img src="https://raw.githubusercontent.com/nilutpolkashyap/bug_robot/main/resources/simulation.png" width=235> | <img src="https://raw.githubusercontent.com/nilutpolkashyap/auto_nav_robot/main/images/output.png?token=GHSAT0AAAAAABXN33XIWTRALEN3QUGIKBCOY7L6Z4Q" width=185>  |  <img src="https://raw.githubusercontent.com/nilutpolkashyap/gripper_bot/main/images/results1.JPG" width=250> | <img src="https://raw.githubusercontent.com/nilutpolkashyap/maze_robot/main/resources/line_follower_algorithm.JPG" width=185> | 
-
+-->
 <!--
 <details open>
   <summary> 1️⃣ Bug Robot - ROS Based Differential Robot with GMapping and AMCL for Autonomous Navigation. </summary>
@@ -119,7 +121,7 @@ ________________________________________________________________________________
 
 
 ____________________________________________________________________________________________
-
+<!--
 <h1 align="center"><b> 🏆Notable Open Source Contributions✌⭐ </b></h1>
 
 <details>
@@ -153,7 +155,7 @@ ________________________________________________________________________________
   PR Status - Merged
 </p>
   
-</details>
+</details> -->
 
 
 ________________________________________________________________________________________________________________
