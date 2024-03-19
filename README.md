@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 - 🔭 I’m currently working on **Generative AI with Robotics**
 - 🤖 I am interested in **Spatial AI, Path Planning** and **Robot Navigation**
-- 😎 I work at **Portfolio** at [Acceleration Robotics]([https://nilutpolkashyap.github.io/](https://accelerationrobotics.com/))
+- 😎 I work as a **Robotics Engineer** at [Acceleration Robotics]([https://nilutpolkashyap.github.io/](https://accelerationrobotics.com/))
 - 🌱 I’m currently learning **Generative AI** and **Robotics Theory**
 - 👯 I’m looking to collaborate on **ROS, Deep Learning and Computer Vision Projects**
 - 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
