@@ -18,15 +18,15 @@ ________________________________________________________________________________
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/robot.gif" width="30%"/>
 
 
-- 🔭 I’m currently working on **Generative AI with Robotics**
+- 🔭 I’m currently working on **Large Language Models and Large Vision Models**
 - 🤖 I am interested in **Spatial AI, Path Planning** and **Robot Navigation**
-- 😎 I work as a **Robotics Engineer** at [Acceleration Robotics]([https://nilutpolkashyap.github.io/](https://accelerationrobotics.com/))
-- 🌱 I’m currently learning **Generative AI** and **Robotics Theory**
-- 👯 I’m looking to collaborate on **ROS, Deep Learning and Computer Vision Projects**
-- 💬 Ask me about **Robotics, ROS, Computer Vision, C++, Python and Deep Learning**
+- 😎 I work as a **Robotics Engineer** at **[Acceleration Robotics]([https://nilutpolkashyap.github.io/](https://accelerationrobotics.com/))**
+- 🌱 I’m currently learning **Multimodal models** and **Robotics Theory**
+- 👯 I’m looking to collaborate on **ROS 2, Deep Learning and Computer Vision Projects**
+- 💬 Ask me about **Robotics, ROS/ROS 2, Computer Vision, C++, Python and Deep Learning**
 - 📫 You can visit my **Portfolio** at [nilutpolkashyap.github.io](https://nilutpolkashyap.github.io/)
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **Artificial Intelligence**:robot: 
+- ⚡ Fun fact: I am fascinated by **Robots**:mechanical_arm: and **General Artificial Intelligence**:robot: 
 
 <!-- - 🤖 I am interested in **Probabilistic Robotics, Path Planning** and **Autonomous Navigation** 
 - 🔭 I’m currently working on **"something cooking!!🤐"**
