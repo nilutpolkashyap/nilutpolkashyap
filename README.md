@@ -197,9 +197,9 @@ ________________________________________________________________________________
 </a>
   
 <a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=buefy" alt="Nilutpol's GitHub Stats" width="60%"/>
-</a>
-    
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nilutpolkashyap&theme=tokyonight" alt="GitHub Streak" />
+</a> 
+
 </div>
 
 <!-- ______________________________________________________________________________________________________ -->
@@ -217,35 +217,36 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 
-<h1 align="center"><b> 🤖🖱️My Tech Stack💻✉️ </b></h1>
+<h1 align="center"><b> 🤖🖱️My Tech Stack💻✉️ </h1>
 
-### Programming Languages 🧑‍💻 ⌨️ 🖱️
 <a href="https://github.com/nilutpolkashyap?tab=repositories&q=&type=&language=c%2B%2B&sort="><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> &ensp;
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a> &ensp;
-
-### Frameworks/Softwares 🦾⚔️🔗
 <img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/> &ensp;
 <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/> &ensp;
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> &ensp;
 <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/> &ensp;
-
-### Machine Learning/ Deep Learning 🧠 👁️ 🤔
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> &ensp;
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> &ensp;
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> &ensp;
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> &ensp;
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> &ensp;
-
-### Tools 💥 ⚔️
 <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> &ensp;
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> &ensp;
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> &ensp;
-
-### Hardware 🦿 🫀
 <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/> &ensp;
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> &ensp;
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> &ensp;
+
+______________________________________________________________________________________________________
+
+<h1 align="center"><b> ☕Support Me🤝 </b></h1>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/nilutpolkashyap" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+  </a>
+</p>
 
 ______________________________________________________________________________________________________
 
