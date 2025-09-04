@@ -254,8 +254,6 @@ ________________________________________________________________________________
 <h1><b> Want To WORK WITH ME? <a href="https://docs.google.com/forms/d/e/1FAIpQLSee9UzIhQzuRDFr6RodI4_T8tM16b6PEAtCc-ZZvXFVWk4i-g/viewform?usp=sf_link">Contact me here!!! </a></h1>
 </div>
 
-# My Github Visitor Count: [![Visitor Count](https://profile-counter.glitch.me/nilutpolkashyap/count.svg)](https://github.com/nilutpolkashyap)
-
 <div align=“center”>
 <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/bd78f2b0e9a175ec1034d91d7c224b5c9d5ee494/thanks.svg" width="120%" title="hover text">
 <br />
